@@ -4,9 +4,9 @@ Work In Progress
 
 ## Content
 
-Text
+Things I learned in Flutter from the App Akademie Berlin.
 
-- [Links](link)
+- [App Akademie Berlin](https://www.app-akademie.com/)
 
 ## Light Mode
 
