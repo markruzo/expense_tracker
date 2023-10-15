@@ -1,12 +1,8 @@
 # Expense Tracker App
 
-Work In Progress
+A Simple Tracker App
 
-## Content
-
-Things I learned in Flutter from the App Akademie Berlin.
-
-- [App Akademie Berlin](https://www.app-akademie.com/)
+## Screens
 
 ## Light Mode
 
